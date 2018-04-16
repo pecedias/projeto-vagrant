@@ -1,0 +1,72 @@
+html, body {
+    height: 100%;
+    overflow: auto;
+}
+
+body {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.header {
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;  
+}
+
+.img-logo {
+    height: 150px;
+    width: 100px;
+}
+
+.page-header {
+    margin-top: 0px;
+}
+
+#form {
+    margin-top: 105px;
+    background: #ffffff;
+    padding-bottom: 20px;
+}
+
+.info-aluno {
+    background: #f1f1f1;
+    margin-top: 15px;
+    padding: 15px;
+    font-size: 14px;
+    border-radius: 10px;
+    
+}
+
+.info-aluno a {
+    color: #000000;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 900;
+}
+
+.right {
+    margin-top: 10px;
+}
+
+#user {
+    background: #f1f1f1;
+}
+
+.padding-bot {
+    padding-bottom: 10px; 
+}
+
+footer {
+    background: rgba(0, 0, 0, 0.8);
+    text-align: center;
+}
+
+footer h6 {
+    display: inline;
+    color: #ffffff;
+}
+
+footer a:hover {
+    text-decoration: none;
+}
